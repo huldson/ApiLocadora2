@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C2S7ER0dLEd5z7KDbaRyGxbZ40PWfC3RQ47wLhOTigA=",
+  "Source": "Verbos.Api",
+  "BasePath": "_content/Verbos.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

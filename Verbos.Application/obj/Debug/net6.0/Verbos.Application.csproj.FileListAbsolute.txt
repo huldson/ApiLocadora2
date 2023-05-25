@@ -1,0 +1,15 @@
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Application\bin\Debug\net6.0\Verbos.Application.deps.json
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Application\bin\Debug\net6.0\Verbos.Application.dll
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Application\bin\Debug\net6.0\Verbos.Application.pdb
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Application\bin\Debug\net6.0\Verbos.Domain.dll
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Application\bin\Debug\net6.0\Verbos.Domain.pdb
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Application\obj\Debug\net6.0\Verbos.Application.csproj.AssemblyReference.cache
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Application\obj\Debug\net6.0\Verbos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Application\obj\Debug\net6.0\Verbos.Application.AssemblyInfoInputs.cache
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Application\obj\Debug\net6.0\Verbos.Application.AssemblyInfo.cs
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Application\obj\Debug\net6.0\Verbos.Application.csproj.CoreCompileInputs.cache
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Application\obj\Debug\net6.0\Verbos.Application.csproj.CopyComplete
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Application\obj\Debug\net6.0\Verbos.Application.dll
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Application\obj\Debug\net6.0\refint\Verbos.Application.dll
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Application\obj\Debug\net6.0\Verbos.Application.pdb
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Application\obj\Debug\net6.0\ref\Verbos.Application.dll
