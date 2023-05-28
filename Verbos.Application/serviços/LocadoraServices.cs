@@ -5,58 +5,38 @@ using System.Text;
 using System.Threading.Tasks;
 using Verbos.Domain.Contratos;
 using Verbos.Domain.Entidades;
+using Verbos.Infrastructure;
 
 namespace Verbos.Application.serviços
 {
     public class LocadoraServices:ILocadora
     {
+        private readonly IBancoDados _bancoDado;
         public List<Filme> Filmes { get; set; }
 
-        public LocadoraServices()
+        public LocadoraServices(IBancoDados bancoDado)
         {
-            Filmes = new List<Filme>(); // Inicializa a lista de filmes
+            _bancoDado = bancoDado;           
         }
-
+      
         public void AddFilme(Filme filme)
         {
-            
-            Filmes.Add(filme);
-            foreach(Filme film in Filmes)
-            {
-                Console.WriteLine(film.Name);
-            }
+            _bancoDado.Adicionar(filme);           
         }
 
         public void alterarFilme(Filme filme)
         {
-            foreach(Filme film in Filmes)
-            {
-                if (film.id == filme.id)
-                {
-                    film.Name = filme.Name;
-                    film.Genero=filme.Genero;
-                }
-            }
+            _bancoDado.Alterar(filme);
         }
 
         public void DeletarFilme(int id)
         {
-            foreach (Filme film in Filmes)
-            {
-                if (film.id == id)
-                {
-                    Filmes.Remove(film);
-                    break;
-                }
-            }
-
-            
+            _bancoDado.Deletar(id);            
         }
 
         public List<Filme> ExbirFilmes()
         {
-            Console.WriteLine(Filmes.Count());
-            return Filmes;
+            return _bancoDado.Consultar();            
         }
     }
 }

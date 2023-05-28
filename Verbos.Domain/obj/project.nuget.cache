@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pCmbpSI+kLoIDrkoSbJk5iasyM3r7e4rlo3UhH9+/BzS12mMTj6scd1/FkO4A6EVqkyOzqqWvahnHI6HRhR4ww==",
+  "dgSpecHash": "krsocdnwWFqcRii+SPUrTQNlGHTiai9CCrxx5lQTW0HcvYzHowgzkfL2XfeuXRoIQcuOiv3Jy21jC7j03QOGJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hulds\\Desktop\\arquitetura\\Anêmico\\ApiVerbos\\Verbos.Domain\\Verbos.Domain.csproj",
+  "projectFilePath": "C:\\Users\\hulds\\Desktop\\api\\api locadora\\ApiLocadora2\\Verbos.Domain\\Verbos.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

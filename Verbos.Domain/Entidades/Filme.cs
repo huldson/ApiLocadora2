@@ -8,9 +8,16 @@ namespace Verbos.Domain.Entidades
 {
     public class Filme
     {
-        public string Name { get; set; }
+        public string Nome { get; set; }
         public string Genero { get; set; }
         public int id  { get; set; }
-
+        
+        public Filme(string name, string genero, int id)
+        {
+            Nome = name;
+            Genero = genero;
+            this.id = id;
+        }
+        public Filme() { }
     }
 }

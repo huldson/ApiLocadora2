@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hulds\\Desktop\\arquitetura\\Anêmico\\ApiVerbos\\Verbos.Domain\\Verbos.Domain.csproj": {}
+    "C:\\Users\\hulds\\Desktop\\api\\api locadora\\ApiLocadora2\\Verbos.Domain\\Verbos.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hulds\\Desktop\\arquitetura\\Anêmico\\ApiVerbos\\Verbos.Domain\\Verbos.Domain.csproj": {
+    "C:\\Users\\hulds\\Desktop\\api\\api locadora\\ApiLocadora2\\Verbos.Domain\\Verbos.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hulds\\Desktop\\arquitetura\\Anêmico\\ApiVerbos\\Verbos.Domain\\Verbos.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\hulds\\Desktop\\api\\api locadora\\ApiLocadora2\\Verbos.Domain\\Verbos.Domain.csproj",
         "projectName": "Verbos.Domain",
-        "projectPath": "C:\\Users\\hulds\\Desktop\\arquitetura\\Anêmico\\ApiVerbos\\Verbos.Domain\\Verbos.Domain.csproj",
+        "projectPath": "C:\\Users\\hulds\\Desktop\\api\\api locadora\\ApiLocadora2\\Verbos.Domain\\Verbos.Domain.csproj",
         "packagesPath": "C:\\Users\\hulds\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hulds\\Desktop\\arquitetura\\Anêmico\\ApiVerbos\\Verbos.Domain\\obj\\",
+        "outputPath": "C:\\Users\\hulds\\Desktop\\api\\api locadora\\ApiLocadora2\\Verbos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
