@@ -1,0 +1,24 @@
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Domain\bin\Debug\net6.0\Verbos.Domain.deps.json
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Domain\bin\Debug\net6.0\Verbos.Domain.dll
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Domain\bin\Debug\net6.0\Verbos.Domain.pdb
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Domain\obj\Debug\net6.0\Verbos.Domain.csproj.AssemblyReference.cache
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Domain\obj\Debug\net6.0\Verbos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Domain\obj\Debug\net6.0\Verbos.Domain.AssemblyInfoInputs.cache
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Domain\obj\Debug\net6.0\Verbos.Domain.AssemblyInfo.cs
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Domain\obj\Debug\net6.0\Verbos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Domain\obj\Debug\net6.0\Verbos.Domain.dll
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Domain\obj\Debug\net6.0\refint\Verbos.Domain.dll
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Domain\obj\Debug\net6.0\Verbos.Domain.pdb
+C:\Users\hulds\Desktop\arquitetura\Anêmico\ApiVerbos\Verbos.Domain\obj\Debug\net6.0\ref\Verbos.Domain.dll
+C:\Users\hulds\Desktop\api\api locadora\ApiLocadora2\Verbos.Domain\bin\Debug\net6.0\Verbos.Domain.deps.json
+C:\Users\hulds\Desktop\api\api locadora\ApiLocadora2\Verbos.Domain\bin\Debug\net6.0\Verbos.Domain.dll
+C:\Users\hulds\Desktop\api\api locadora\ApiLocadora2\Verbos.Domain\bin\Debug\net6.0\Verbos.Domain.pdb
+C:\Users\hulds\Desktop\api\api locadora\ApiLocadora2\Verbos.Domain\obj\Debug\net6.0\Verbos.Domain.csproj.AssemblyReference.cache
+C:\Users\hulds\Desktop\api\api locadora\ApiLocadora2\Verbos.Domain\obj\Debug\net6.0\Verbos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulds\Desktop\api\api locadora\ApiLocadora2\Verbos.Domain\obj\Debug\net6.0\Verbos.Domain.AssemblyInfoInputs.cache
+C:\Users\hulds\Desktop\api\api locadora\ApiLocadora2\Verbos.Domain\obj\Debug\net6.0\Verbos.Domain.AssemblyInfo.cs
+C:\Users\hulds\Desktop\api\api locadora\ApiLocadora2\Verbos.Domain\obj\Debug\net6.0\Verbos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hulds\Desktop\api\api locadora\ApiLocadora2\Verbos.Domain\obj\Debug\net6.0\Verbos.Domain.dll
+C:\Users\hulds\Desktop\api\api locadora\ApiLocadora2\Verbos.Domain\obj\Debug\net6.0\refint\Verbos.Domain.dll
+C:\Users\hulds\Desktop\api\api locadora\ApiLocadora2\Verbos.Domain\obj\Debug\net6.0\Verbos.Domain.pdb
+C:\Users\hulds\Desktop\api\api locadora\ApiLocadora2\Verbos.Domain\obj\Debug\net6.0\ref\Verbos.Domain.dll
